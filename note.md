@@ -11,10 +11,13 @@ http://agiliq.com/books/djenofdjango/chapter7.html
 https://github.com/agiliq/django-project
 
 http://eldarion.com/symposion/ conference management
+https://github.com/pinax/symposion
 
 ### extra
 
 http://pinaxproject.com/
+
+
 
 
 ### school management
