@@ -12,6 +12,7 @@ https://github.com/agiliq/django-project
 
 http://eldarion.com/symposion/ conference management
 https://github.com/pinax/symposion
+http://symposion.readthedocs.org/en/latest/
 
 ### extra
 
