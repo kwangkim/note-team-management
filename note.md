@@ -10,6 +10,8 @@ http://agiliq.com/books/djenofdjango/chapter7.html
 
 https://github.com/agiliq/django-project
 
+http://eldarion.com/symposion/ conference management
+
 ### extra
 
 http://pinaxproject.com/
