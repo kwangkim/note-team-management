@@ -1,4 +1,4 @@
-### c9
+### c9 it does not work because of lack of root permission
 
 install bundler
 
@@ -41,9 +41,30 @@ password: - **No password** The password for the above mysql user
 ------
 Install the rest of the gems
 "gem install declarative_authorization -v 0.5.1" 
-"gem install i18n -v 0.4.2" 
+"gem install i18n -v 0.7.0" 
 
-----
+---- rake problems
+[How to update rails](http://railsapps.github.io/updating-rails.html)
+
+```
+$ gem update --system
+```
+
+```
+rvm gemset list
+```
+Important1!! to change gemsets to global
+```
+rvm gemset use global
+```
+Update gems
+```
+gem update
+``
+
+in terminal
+export RAILS_GEM_VERSION=
+
 change RAILS_GEM_VERSION in /config/environment.rb
 
 How to check ? gem list 
@@ -51,5 +72,8 @@ or
 rails -v
 (for ruby, ruby -v)
 -----
+gem install -v=[version like 4.2.0] rails
+------
+
 
 
