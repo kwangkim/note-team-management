@@ -39,7 +39,7 @@ password: - **No password** The password for the above mysql user
 ------
 Install the rest of the gems
 "gem install declarative_authorization -v 0.5.1" 
-"gem install i18n -v 0.7.0" 
+"gem install i18n -v 0.4.0" 
 
 ---- rake problems
 [How to update rails](http://railsapps.github.io/updating-rails.html)
