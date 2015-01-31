@@ -45,6 +45,8 @@ Install the rest of the gems
 
 ----
 change RAILS_GEM_VERSION in /config/environment.rb
+
+How to check gem list  (for ruby, ruby -v)
 -----
 
 
