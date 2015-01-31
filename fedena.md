@@ -1,4 +1,6 @@
 ### c9 it does not work because of lack of root permission
+Choose rails
+
 
 install bundler
 
@@ -73,7 +75,8 @@ rails -v
 (for ruby, ruby -v)
 -----
 gem install -v=[version like 4.2.0] rails
-------
+
+
 
 
 
