@@ -2,10 +2,6 @@
 Choose rails
 
 
-install bundler
-
-```
- gem install bundler
 ```
 ###[MYSQL for c9](https://c9.io/site/blog/2013/05/mysql-for-every-workspace/)
 
