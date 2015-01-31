@@ -6,3 +6,6 @@ koding does not provide delete vm. You need to delete account to reset completel
 
 http://learn.koding.com/guides/what-is-docker/
 
+For fig, install fig
+
+sudo apt-get install fig
