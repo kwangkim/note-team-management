@@ -34,4 +34,7 @@ https://github.com/skyl/Django-School  -old
 
 http://www.projectfedena.org/
 
+### extra info
+
+http://www.universitybusiness.com/article/new-face-erp
 
